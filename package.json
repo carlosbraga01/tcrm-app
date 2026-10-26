@@ -1,8 +1,8 @@
 {
-  "name": "deskcomm-crm",
+  "name": "tcrm",
   "version": "0.1.0",
   "private": true,
-  "description": "DeskcommCRM — sistema operacional de vendas open source com agentes de IA nativos e WhatsApp (WAHA). Self-hosted, multi-tenant, LGPD by-design.",
+  "description": "TCRM — CRM de vendas com agentes de IA e WhatsApp (WAHA), marca Telecom ME. Self-hosted, multi-tenant, LGPD. Baseado em DeskcommCRM (MIT).",
   "engines": {
     "node": ">=22"
   },
